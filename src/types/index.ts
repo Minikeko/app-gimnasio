@@ -1,13 +1,13 @@
 export type MuscleGroup =
-  | 'pecho' | 'espalda' | 'hombros' | 'biceps' | 'triceps'
-  | 'antebrazos' | 'abdomen' | 'oblicuos' | 'lumbar'
-  | 'gluteos' | 'cuadriceps' | 'isquiotibiales' | 'gemelos' | 'aductores' | 'trapecio'
+  | 'pecho' | 'dorsales' | 'espalda' | 'hombros' | 'biceps' | 'triceps'
+  | 'antebrazos' | 'abdomen' | 'lumbar' | 'trapecio'
+  | 'gluteos' | 'cuadriceps' | 'isquiotibiales' | 'gemelos' | 'aductores' | 'abductores'
 
 export type Equipment =
   | 'maquina' | 'mancuerna' | 'barra' | 'polea' | 'pesoCorporal'
-  | 'kettlebell' | 'bandas' | 'multipower' | 'trx' | 'banco' | 'otro'
+  | 'kettlebell' | 'bandas' | 'multipower' | 'trx' | 'otro'
 
-export type VideoPlataforma = 'youtube' | 'tiktok' | 'instagram' | 'custom'
+export type VideoPlataforma = 'youtube' | 'tiktok' | 'instagram' | 'otro'
 
 export interface Ejercicio {
   id: string
@@ -15,20 +15,17 @@ export interface Ejercicio {
   nombreOriginal?: string
   musculoPrincipal: MuscleGroup
   musculosSecundarios: MuscleGroup[]
-  equipamiento: Equipment[]
-  instrucciones: string
-  erroresComunes: string
-  imagenInicioUrl: string
-  imagenFinUrl: string
-  imagenInicioB64?: string
-  imagenFinB64?: string
-  videoUrl: string
-  videoUrlPersonalizado?: string
-  videoPlataforma: VideoPlataforma
+  equipamiento: Equipment
+  nivel?: string
+  instrucciones: string[]
+  erroresComunes: string[]
+  idioma: 'es' | 'en'
+  /** Rutas relativas a la base de imágenes de free-exercise-db */
+  imagenes: string[]
+  /** Foto propia en data URL (JPEG comprimido) */
+  foto?: string
+  videoUrl?: string
   esPersonalizado: boolean
-  fuente: 'wger' | 'free-exercise-db' | 'custom'
-  wgerId?: number
-  creadoEn: Date
 }
 
 export interface EjercicioRutina {
@@ -71,7 +68,7 @@ export interface Sesion {
   completada: boolean
 }
 
-export interface Record {
+export interface RecordPersonal {
   ejercicioId: string
   fecha: Date
   pesoMaximoKg: number

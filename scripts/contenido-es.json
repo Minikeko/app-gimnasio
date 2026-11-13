@@ -1,0 +1,1305 @@
+{
+ "Barbell Bench Press - Medium Grip": {
+  "pasos": [
+   "Túmbate en el banco con los ojos bajo la barra y los pies firmes en el suelo.",
+   "Agarra la barra algo más ancho que los hombros, junta las escápulas y saca pecho.",
+   "Descuelga la barra y bájala controlada hasta rozar la parte media-baja del pecho.",
+   "Empuja hacia arriba y ligeramente hacia atrás hasta extender los brazos."
+  ],
+  "errores": [
+   "Rebotar la barra en el pecho.",
+   "Despegar los glúteos del banco.",
+   "Abrir los codos a 90º: mantenlos a unos 45-70º del tronco.",
+   "Perder la retracción de las escápulas."
+  ]
+ },
+ "Barbell Incline Bench Press - Medium Grip": {
+  "pasos": [
+   "Ajusta el banco a 30-45º y túmbate con los pies apoyados.",
+   "Agarra la barra algo más ancho que los hombros con las escápulas juntas.",
+   "Baja la barra controlada hasta la parte alta del pecho.",
+   "Empuja hasta extender los brazos sin bloquear de golpe."
+  ],
+  "errores": [
+   "Inclinar demasiado el banco y convertirlo en press de hombro.",
+   "Bajar la barra al cuello o al abdomen.",
+   "Arquear en exceso la zona lumbar."
+  ]
+ },
+ "Decline Barbell Bench Press": {
+  "pasos": [
+   "Fija las piernas en el banco declinado y túmbate.",
+   "Agarra la barra algo más ancho que los hombros.",
+   "Baja la barra a la parte baja del pecho.",
+   "Empuja hasta extender los brazos."
+  ],
+  "errores": [
+   "Bajar la barra hacia el cuello.",
+   "Rebotar en el pecho.",
+   "Usar demasiado peso sin compañero de seguridad."
+  ]
+ },
+ "Dumbbell Bench Press": {
+  "pasos": [
+   "Siéntate con las mancuernas sobre los muslos y túmbate llevándolas al pecho.",
+   "Junta las escápulas y coloca las mancuernas a la altura del pecho.",
+   "Empuja hacia arriba hasta casi juntarlas sobre el pecho.",
+   "Baja controlado hasta notar estiramiento en el pecho."
+  ],
+  "errores": [
+   "Chocar las mancuernas arriba.",
+   "Bajar sin control o con los codos totalmente abiertos.",
+   "Despegar los glúteos del banco."
+  ]
+ },
+ "Incline Dumbbell Press": {
+  "pasos": [
+   "Ajusta el banco a 30-45º y túmbate con las mancuernas a la altura del pecho.",
+   "Junta las escápulas y apoya bien los pies.",
+   "Empuja hacia arriba siguiendo un ligero arco.",
+   "Baja controlado hasta la altura del pecho."
+  ],
+  "errores": [
+   "Banco demasiado inclinado.",
+   "Perder la tensión arriba juntando las mancuernas con fuerza.",
+   "Bajar muy rápido."
+  ]
+ },
+ "Dumbbell Flyes": {
+  "pasos": [
+   "Túmbate en banco plano con las mancuernas arriba y palmas enfrentadas.",
+   "Flexiona ligeramente los codos y mantén ese ángulo.",
+   "Abre los brazos en arco hasta notar estiramiento en el pecho.",
+   "Vuelve a cerrar con el mismo arco apretando el pecho."
+  ],
+  "errores": [
+   "Estirar los codos del todo y cargar la articulación.",
+   "Bajar demasiado y forzar el hombro.",
+   "Convertirlo en un press doblando los codos."
+  ]
+ },
+ "Incline Dumbbell Flyes": {
+  "pasos": [
+   "Banco a 30º con las mancuernas arriba, palmas enfrentadas.",
+   "Codos ligeramente flexionados.",
+   "Abre en arco hasta notar estiramiento.",
+   "Cierra apretando el pecho."
+  ],
+  "errores": [
+   "Bajar demasiado.",
+   "Flexionar y extender los codos durante el movimiento.",
+   "Usar demasiado peso."
+  ]
+ },
+ "Cable Crossover": {
+  "pasos": [
+   "Coloca las poleas altas y agarra un estribo en cada mano.",
+   "Da un paso al frente con el tronco algo inclinado y los codos un poco flexionados.",
+   "Junta las manos delante del cuerpo en un arco descendente.",
+   "Vuelve despacio hasta notar estiramiento en el pecho."
+  ],
+  "errores": [
+   "Tirar con los brazos en lugar del pecho.",
+   "Balancear el tronco.",
+   "Soltar el peso de golpe en la vuelta."
+  ]
+ },
+ "Butterfly": {
+  "pasos": [
+   "Ajusta el asiento para que los agarres queden a la altura del pecho.",
+   "Siéntate con la espalda apoyada.",
+   "Junta los brazos delante apretando el pecho.",
+   "Vuelve despacio hasta notar estiramiento."
+  ],
+  "errores": [
+   "Despegar la espalda del respaldo.",
+   "Ir demasiado atrás y forzar el hombro.",
+   "Hacerlo con impulso."
+  ]
+ },
+ "Pushups": {
+  "pasos": [
+   "Manos en el suelo algo más anchas que los hombros, cuerpo recto de cabeza a talones.",
+   "Aprieta abdomen y glúteos.",
+   "Baja hasta que el pecho casi toque el suelo.",
+   "Empuja hasta extender los brazos."
+  ],
+  "errores": [
+   "Hundir la cadera.",
+   "Levantar el culo.",
+   "Abrir los codos a 90º."
+  ]
+ },
+ "Dips - Chest Version": {
+  "pasos": [
+   "Sujétate en las paralelas con los brazos extendidos.",
+   "Inclina el tronco hacia delante y abre un poco los codos.",
+   "Baja hasta notar estiramiento en el pecho.",
+   "Sube empujando hasta extender los brazos."
+  ],
+  "errores": [
+   "Bajar demasiado y forzar el hombro.",
+   "Balancear las piernas.",
+   "Encoger los hombros hacia las orejas."
+  ]
+ },
+ "Dips - Triceps Version": {
+  "pasos": [
+   "Sujétate en las paralelas con el tronco vertical.",
+   "Codos pegados al cuerpo.",
+   "Baja hasta que los codos formen 90º.",
+   "Sube extendiendo los brazos."
+  ],
+  "errores": [
+   "Abrir los codos.",
+   "Inclinarse demasiado hacia delante.",
+   "Bajar en exceso."
+  ]
+ },
+ "Bench Dips": {
+  "pasos": [
+   "Apoya las manos en un banco detrás de ti y los talones en el suelo.",
+   "Mantén la espalda pegada al banco.",
+   "Baja doblando los codos hasta unos 90º.",
+   "Sube extendiendo los brazos."
+  ],
+  "errores": [
+   "Alejar la espalda del banco.",
+   "Bajar demasiado y forzar el hombro.",
+   "Abrir los codos hacia fuera."
+  ]
+ },
+ "Barbell Deadlift": {
+  "pasos": [
+   "Pies a la anchura de la cadera con la barra sobre la mitad del pie.",
+   "Agarra la barra justo por fuera de las piernas, espalda neutra y pecho arriba.",
+   "Empuja el suelo con las piernas manteniendo la barra pegada al cuerpo.",
+   "Termina de pie extendiendo la cadera y baja con el mismo recorrido."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Alejar la barra del cuerpo.",
+   "Hiperextender la zona lumbar arriba.",
+   "Subir la cadera antes que la barra."
+  ]
+ },
+ "Romanian Deadlift": {
+  "pasos": [
+   "De pie con la barra en las manos y rodillas ligeramente flexionadas.",
+   "Lleva la cadera hacia atrás bajando la barra pegada a las piernas.",
+   "Baja hasta notar estiramiento en los isquios, con la espalda recta.",
+   "Sube empujando la cadera hacia delante."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Doblar demasiado las rodillas (se convierte en peso muerto normal).",
+   "Separar la barra de las piernas."
+  ]
+ },
+ "Stiff-Legged Dumbbell Deadlift": {
+  "pasos": [
+   "De pie con una mancuerna en cada mano.",
+   "Rodillas casi rectas, lleva la cadera atrás.",
+   "Baja las mancuernas pegadas a las piernas hasta notar estiramiento.",
+   "Sube apretando glúteos."
+  ],
+  "errores": [
+   "Curvar la espalda.",
+   "Bloquear las rodillas por completo.",
+   "Bajar más allá de tu flexibilidad."
+  ]
+ },
+ "Sumo Deadlift": {
+  "pasos": [
+   "Pies muy separados con las puntas hacia fuera y la barra pegada a las espinillas.",
+   "Agarra la barra por dentro de las piernas con la espalda recta.",
+   "Empuja el suelo abriendo las rodillas y sube la barra pegada al cuerpo.",
+   "Extiende la cadera arriba y baja controlado."
+  ],
+  "errores": [
+   "Dejar que las rodillas se cierren.",
+   "Redondear la espalda.",
+   "Subir la cadera primero."
+  ]
+ },
+ "Trap Bar Deadlift": {
+  "pasos": [
+   "Colócate dentro de la barra hexagonal con los pies a la anchura de la cadera.",
+   "Agarra las asas con la espalda neutra.",
+   "Empuja el suelo con las piernas hasta quedar de pie.",
+   "Baja controlado al suelo."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Colocarse descentrado dentro de la barra.",
+   "Bloquear con hiperextensión lumbar."
+  ]
+ },
+ "Rack Pulls": {
+  "pasos": [
+   "Coloca la barra en los soportes a la altura de las rodillas.",
+   "Agárrala con la espalda neutra.",
+   "Extiende la cadera hasta quedar de pie.",
+   "Baja la barra a los soportes controlando."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Tirar con los brazos.",
+   "Hiperextender arriba."
+  ]
+ },
+ "Barbell Squat": {
+  "pasos": [
+   "Coloca la barra sobre los trapecios y sal del rack con dos pasos.",
+   "Pies a la anchura de los hombros con las puntas algo abiertas.",
+   "Baja llevando la cadera atrás y abajo con el pecho arriba hasta al menos la paralela.",
+   "Sube empujando el suelo con todo el pie."
+  ],
+  "errores": [
+   "Juntar las rodillas hacia dentro.",
+   "Levantar los talones.",
+   "Redondear la espalda al bajar.",
+   "Quedarse corto de profundidad."
+  ]
+ },
+ "Barbell Full Squat": {
+  "pasos": [
+   "Barra sobre los trapecios, pies a la anchura de los hombros.",
+   "Baja todo lo que permita tu movilidad manteniendo la espalda neutra.",
+   "Mantén las rodillas en la línea de los pies.",
+   "Sube empujando con todo el pie."
+  ],
+  "errores": [
+   "Perder la curva lumbar abajo.",
+   "Rodillas hacia dentro.",
+   "Despegar los talones."
+  ]
+ },
+ "Front Barbell Squat": {
+  "pasos": [
+   "Apoya la barra sobre los deltoides delanteros con los codos altos.",
+   "Pies a la anchura de los hombros.",
+   "Baja con el tronco lo más vertical posible.",
+   "Sube manteniendo los codos arriba."
+  ],
+  "errores": [
+   "Dejar caer los codos.",
+   "Inclinar el tronco hacia delante.",
+   "Rodillas hacia dentro."
+  ]
+ },
+ "Goblet Squat": {
+  "pasos": [
+   "Sujeta una mancuerna o kettlebell vertical pegada al pecho.",
+   "Pies algo más anchos que los hombros.",
+   "Baja entre las piernas con el pecho arriba.",
+   "Sube empujando con los talones."
+  ],
+  "errores": [
+   "Separar el peso del pecho.",
+   "Redondear la espalda.",
+   "Rodillas hacia dentro."
+  ]
+ },
+ "Smith Machine Squat": {
+  "pasos": [
+   "Coloca la barra del multipower sobre los trapecios.",
+   "Adelanta un poco los pies respecto a la barra.",
+   "Baja hasta la paralela con la espalda recta.",
+   "Sube empujando el suelo."
+  ],
+  "errores": [
+   "Pies demasiado atrasados (carga las rodillas).",
+   "Despegar los talones.",
+   "Quedarse corto de recorrido."
+  ]
+ },
+ "Hack Squat": {
+  "pasos": [
+   "Apoya la espalda y los hombros en la máquina.",
+   "Pies a la anchura de los hombros en la plataforma.",
+   "Quita los seguros y baja hasta 90º o más.",
+   "Sube sin bloquear las rodillas."
+  ],
+  "errores": [
+   "Despegar la espalda del respaldo.",
+   "Rodillas hacia dentro.",
+   "Bloquear las rodillas arriba con fuerza."
+  ]
+ },
+ "Leg Press": {
+  "pasos": [
+   "Siéntate con la espalda bien apoyada y los pies a la anchura de la cadera en la plataforma.",
+   "Quita los seguros.",
+   "Baja la plataforma hasta que las rodillas formen unos 90º.",
+   "Empuja sin llegar a bloquear las rodillas."
+  ],
+  "errores": [
+   "Despegar la zona lumbar del asiento al bajar.",
+   "Bloquear las rodillas arriba.",
+   "Rodillas hacia dentro."
+  ]
+ },
+ "Leg Extensions": {
+  "pasos": [
+   "Ajusta el respaldo para que la rodilla quede alineada con el eje de la máquina.",
+   "El rodillo apoya justo encima de los tobillos.",
+   "Extiende las piernas apretando el cuádriceps.",
+   "Baja despacio."
+  ],
+  "errores": [
+   "Hacerlo con impulso.",
+   "Levantar los glúteos del asiento.",
+   "Bajar dejando caer el peso."
+  ]
+ },
+ "Lying Leg Curls": {
+  "pasos": [
+   "Túmbate boca abajo con el rodillo justo encima de los talones.",
+   "Agarra las asas y pega la cadera al banco.",
+   "Flexiona las rodillas llevando los talones al glúteo.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Levantar la cadera.",
+   "Hacerlo con impulso.",
+   "Recorrido incompleto."
+  ]
+ },
+ "Seated Leg Curl": {
+  "pasos": [
+   "Ajusta la máquina con la rodilla alineada al eje.",
+   "Baja el rodillo superior sobre los muslos.",
+   "Flexiona las rodillas llevando el rodillo hacia abajo.",
+   "Vuelve despacio."
+  ],
+  "errores": [
+   "Despegar la espalda.",
+   "Usar impulso.",
+   "No llegar a la flexión completa."
+  ]
+ },
+ "Barbell Lunge": {
+  "pasos": [
+   "Barra sobre los trapecios, de pie con los pies juntos.",
+   "Da un paso largo al frente.",
+   "Baja hasta que ambas rodillas formen 90º.",
+   "Empuja con la pierna delantera para volver."
+  ],
+  "errores": [
+   "Rodilla delantera hacia dentro.",
+   "Paso demasiado corto.",
+   "Inclinar el tronco."
+  ]
+ },
+ "Dumbbell Lunges": {
+  "pasos": [
+   "De pie con una mancuerna en cada mano.",
+   "Da un paso largo al frente.",
+   "Baja hasta que la rodilla trasera casi toque el suelo.",
+   "Vuelve empujando con la pierna delantera."
+  ],
+  "errores": [
+   "Rodilla delantera hacia dentro.",
+   "Golpear la rodilla trasera en el suelo.",
+   "Perder el equilibrio por un paso estrecho."
+  ]
+ },
+ "Split Squat with Dumbbells": {
+  "pasos": [
+   "Apoya el empeine del pie trasero en un banco.",
+   "Mancuernas a los lados.",
+   "Baja recto hasta que el muslo delantero quede paralelo.",
+   "Sube empujando con el talón delantero."
+  ],
+  "errores": [
+   "Pie delantero demasiado cerca del banco.",
+   "Rodilla hacia dentro.",
+   "Inclinarse en exceso."
+  ]
+ },
+ "Barbell Hip Thrust": {
+  "pasos": [
+   "Apoya la parte alta de la espalda en un banco con la barra (con protector) sobre la cadera.",
+   "Pies apoyados a la anchura de la cadera.",
+   "Sube la cadera hasta alinear tronco y muslos apretando los glúteos.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Arquear la zona lumbar arriba.",
+   "Pies demasiado lejos o cerca.",
+   "Empujar con la punta en vez del talón."
+  ]
+ },
+ "Barbell Glute Bridge": {
+  "pasos": [
+   "Túmbate boca arriba con la barra sobre la cadera.",
+   "Rodillas flexionadas y pies apoyados.",
+   "Eleva la cadera apretando glúteos.",
+   "Baja sin apoyar del todo."
+  ],
+  "errores": [
+   "Hiperextender la espalda.",
+   "Empujar con las puntas.",
+   "Hacerlo demasiado rápido."
+  ]
+ },
+ "Standing Calf Raises": {
+  "pasos": [
+   "Colócate en la máquina con las puntas en el borde del escalón.",
+   "Baja los talones hasta notar estiramiento.",
+   "Sube de puntillas todo lo posible.",
+   "Mantén un segundo arriba y baja despacio."
+  ],
+  "errores": [
+   "Rebotar abajo.",
+   "Doblar las rodillas.",
+   "Recorrido corto."
+  ]
+ },
+ "Seated Calf Raise": {
+  "pasos": [
+   "Siéntate con el apoyo sobre los muslos y las puntas en la plataforma.",
+   "Baja los talones.",
+   "Sube de puntillas.",
+   "Pausa arriba y baja controlado."
+  ],
+  "errores": [
+   "Rebotar.",
+   "Recorrido corto.",
+   "Hacerlo muy rápido."
+  ]
+ },
+ "Pullups": {
+  "pasos": [
+   "Cuélgate de la barra con agarre prono algo más ancho que los hombros.",
+   "Baja los hombros alejándolos de las orejas.",
+   "Sube hasta pasar la barbilla por encima de la barra.",
+   "Baja controlado hasta extender los brazos."
+  ],
+  "errores": [
+   "Balancearse.",
+   "Recorrido incompleto.",
+   "Encoger los hombros."
+  ]
+ },
+ "Chin-Up": {
+  "pasos": [
+   "Cuélgate con agarre supino a la anchura de los hombros.",
+   "Activa las escápulas.",
+   "Sube hasta pasar la barbilla de la barra.",
+   "Baja despacio."
+  ],
+  "errores": [
+   "Usar impulso de piernas.",
+   "No bajar del todo.",
+   "Adelantar la cabeza."
+  ]
+ },
+ "Wide-Grip Lat Pulldown": {
+  "pasos": [
+   "Siéntate con los muslos bajo los rodillos y agarra la barra abierta.",
+   "Inclina ligeramente el tronco hacia atrás.",
+   "Tira de la barra hacia la parte alta del pecho llevando los codos abajo.",
+   "Sube controlado hasta estirar los brazos."
+  ],
+  "errores": [
+   "Tirar detrás de la nuca.",
+   "Balancear el tronco.",
+   "Tirar con los bíceps en vez de la espalda."
+  ]
+ },
+ "Close-Grip Front Lat Pulldown": {
+  "pasos": [
+   "Siéntate y agarra la barra con agarre cerrado.",
+   "Tronco algo inclinado atrás.",
+   "Tira hacia el pecho juntando las escápulas.",
+   "Sube despacio."
+  ],
+  "errores": [
+   "Balancearse.",
+   "Encoger los hombros.",
+   "Recorrido incompleto."
+  ]
+ },
+ "V-Bar Pulldown": {
+  "pasos": [
+   "Engancha el triángulo a la polea alta y siéntate.",
+   "Agárralo con los brazos estirados.",
+   "Tira hacia el pecho llevando los codos hacia abajo y atrás.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Echarse demasiado atrás.",
+   "Tirar con los brazos.",
+   "Soltar el peso de golpe."
+  ]
+ },
+ "Seated Cable Rows": {
+  "pasos": [
+   "Siéntate con los pies en la plataforma y las rodillas algo flexionadas.",
+   "Agarra el triángulo con la espalda recta.",
+   "Tira hacia el abdomen juntando las escápulas.",
+   "Vuelve estirando los brazos sin redondear la espalda."
+  ],
+  "errores": [
+   "Balancear el tronco adelante y atrás.",
+   "Redondear la espalda al estirar.",
+   "Encoger los hombros."
+  ]
+ },
+ "Bent Over Barbell Row": {
+  "pasos": [
+   "De pie con la barra, inclina el tronco a unos 45º con la espalda recta.",
+   "Agarra la barra a la anchura de los hombros.",
+   "Tira de la barra hacia el abdomen llevando los codos atrás.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Incorporarse con cada repetición.",
+   "Usar impulso."
+  ]
+ },
+ "One-Arm Dumbbell Row": {
+  "pasos": [
+   "Apoya rodilla y mano del mismo lado en un banco.",
+   "Espalda recta y paralela al suelo.",
+   "Tira de la mancuerna hacia la cadera.",
+   "Baja estirando el brazo."
+  ],
+  "errores": [
+   "Girar el tronco.",
+   "Tirar hacia el pecho en lugar de la cadera.",
+   "Redondear la espalda."
+  ]
+ },
+ "T-Bar Row with Handle": {
+  "pasos": [
+   "Colócate sobre la barra con el tronco inclinado y la espalda recta.",
+   "Agarra el asa.",
+   "Tira hacia el pecho juntando escápulas.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Usar impulso de piernas.",
+   "Recorrido corto."
+  ]
+ },
+ "Inverted Row": {
+  "pasos": [
+   "Túmbate bajo una barra baja y agárrala.",
+   "Cuerpo recto con talones en el suelo.",
+   "Tira del pecho hacia la barra.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Hundir la cadera.",
+   "No llegar a la barra.",
+   "Encoger los hombros."
+  ]
+ },
+ "Straight-Arm Pulldown": {
+  "pasos": [
+   "De pie frente a la polea alta, agarra la barra con brazos casi rectos.",
+   "Inclina un poco el tronco.",
+   "Lleva la barra hacia los muslos con los dorsales.",
+   "Sube controlado."
+  ],
+  "errores": [
+   "Doblar los codos.",
+   "Balancearse.",
+   "Encoger hombros."
+  ]
+ },
+ "Hyperextensions (Back Extensions)": {
+  "pasos": [
+   "Colócate en el banco con la cadera en el borde del apoyo.",
+   "Cruza los brazos sobre el pecho.",
+   "Baja el tronco con la espalda recta.",
+   "Sube hasta alinear el cuerpo."
+  ],
+  "errores": [
+   "Subir de más arqueando la espalda.",
+   "Hacerlo con impulso.",
+   "Redondear la espalda."
+  ]
+ },
+ "Face Pull": {
+  "pasos": [
+   "Polea a la altura de la cara con cuerda.",
+   "Agarra la cuerda con las palmas hacia abajo.",
+   "Tira hacia la cara abriendo los codos y separando las manos.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Usar demasiado peso.",
+   "Tirar hacia el pecho.",
+   "Echarse atrás."
+  ]
+ },
+ "Barbell Shrug": {
+  "pasos": [
+   "De pie con la barra delante de los muslos.",
+   "Brazos estirados.",
+   "Eleva los hombros hacia las orejas.",
+   "Mantén un segundo y baja."
+  ],
+  "errores": [
+   "Girar los hombros en círculo.",
+   "Doblar los codos.",
+   "Recorrido corto."
+  ]
+ },
+ "Dumbbell Shrug": {
+  "pasos": [
+   "De pie con una mancuerna en cada mano.",
+   "Brazos estirados a los lados.",
+   "Sube los hombros hacia las orejas.",
+   "Baja despacio."
+  ],
+  "errores": [
+   "Rotar los hombros.",
+   "Usar impulso.",
+   "Doblar los codos."
+  ]
+ },
+ "Standing Military Press": {
+  "pasos": [
+   "Barra apoyada en la parte alta del pecho, agarre algo más ancho que los hombros.",
+   "Aprieta glúteos y abdomen.",
+   "Empuja la barra por encima de la cabeza pasando la cara.",
+   "Baja controlado al pecho."
+  ],
+  "errores": [
+   "Arquear la zona lumbar.",
+   "Empujar la barra hacia delante.",
+   "Usar impulso de piernas."
+  ]
+ },
+ "Seated Barbell Military Press": {
+  "pasos": [
+   "Siéntate con respaldo vertical y la barra a la altura de la clavícula.",
+   "Agarre algo más ancho que los hombros.",
+   "Empuja hacia arriba hasta extender los brazos.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Despegar la espalda.",
+   "Bajar tras la nuca.",
+   "Arquear la espalda."
+  ]
+ },
+ "Dumbbell Shoulder Press": {
+  "pasos": [
+   "Siéntate con respaldo y mancuernas a la altura de los hombros.",
+   "Palmas al frente.",
+   "Empuja hacia arriba sin chocarlas.",
+   "Baja hasta la altura de las orejas."
+  ],
+  "errores": [
+   "Arquear la espalda.",
+   "Bajar poco.",
+   "Chocar las mancuernas."
+  ]
+ },
+ "Seated Dumbbell Press": {
+  "pasos": [
+   "Siéntate con la espalda apoyada y las mancuernas a la altura de los hombros.",
+   "Empuja hacia arriba.",
+   "Extiende sin bloquear de golpe.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Despegar la espalda.",
+   "Rebotar abajo.",
+   "Recorrido corto."
+  ]
+ },
+ "Arnold Dumbbell Press": {
+  "pasos": [
+   "Sentado, mancuernas delante de la cara con palmas hacia ti.",
+   "Empuja hacia arriba girando las palmas hacia delante.",
+   "Extiende los brazos arriba.",
+   "Baja deshaciendo el giro."
+  ],
+  "errores": [
+   "Hacerlo deprisa.",
+   "Arquear la espalda.",
+   "Usar demasiado peso."
+  ]
+ },
+ "Machine Shoulder (Military) Press": {
+  "pasos": [
+   "Ajusta el asiento para que los agarres queden a la altura de los hombros.",
+   "Espalda pegada al respaldo.",
+   "Empuja hacia arriba.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Despegar la espalda.",
+   "Bloquear los codos de golpe.",
+   "Recorrido corto."
+  ]
+ },
+ "Side Lateral Raise": {
+  "pasos": [
+   "De pie con una mancuerna en cada mano a los lados.",
+   "Codos ligeramente flexionados.",
+   "Eleva los brazos hasta la altura de los hombros.",
+   "Baja despacio."
+  ],
+  "errores": [
+   "Subir por encima de los hombros.",
+   "Usar impulso del tronco.",
+   "Encoger los trapecios."
+  ]
+ },
+ "Front Dumbbell Raise": {
+  "pasos": [
+   "De pie con las mancuernas delante de los muslos.",
+   "Eleva un brazo al frente hasta la altura de los hombros.",
+   "Baja controlado.",
+   "Alterna o hazlo con los dos brazos."
+  ],
+  "errores": [
+   "Balancear el cuerpo.",
+   "Subir demasiado.",
+   "Bloquear los codos."
+  ]
+ },
+ "Cable Rear Delt Fly": {
+  "pasos": [
+   "Poleas a la altura de los hombros, agarra los cables cruzados.",
+   "Brazos al frente con codos algo flexionados.",
+   "Abre los brazos hacia atrás apretando el deltoides posterior.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Juntar las escápulas en exceso.",
+   "Usar demasiado peso.",
+   "Balancearse."
+  ]
+ },
+ "Reverse Machine Flyes": {
+  "pasos": [
+   "Siéntate mirando al respaldo de la máquina.",
+   "Agarra las asas con los brazos al frente.",
+   "Abre los brazos hacia atrás.",
+   "Vuelve despacio."
+  ],
+  "errores": [
+   "Usar los trapecios.",
+   "Impulso.",
+   "Recorrido corto."
+  ]
+ },
+ "Seated Bent-Over Rear Delt Raise": {
+  "pasos": [
+   "Sentado al borde del banco, inclínate con el pecho sobre los muslos.",
+   "Mancuernas bajo las piernas.",
+   "Eleva los brazos a los lados.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Incorporar el tronco.",
+   "Usar impulso.",
+   "Doblar mucho los codos."
+  ]
+ },
+ "Upright Barbell Row": {
+  "pasos": [
+   "De pie con la barra delante de los muslos, agarre a la anchura de los hombros.",
+   "Tira de la barra hacia arriba pegada al cuerpo.",
+   "Eleva los codos hasta la altura de los hombros.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Subir los codos por encima de los hombros.",
+   "Agarre demasiado estrecho.",
+   "Impulso."
+  ]
+ },
+ "Barbell Curl": {
+  "pasos": [
+   "De pie con la barra, agarre supino a la anchura de los hombros.",
+   "Codos pegados al cuerpo.",
+   "Flexiona los codos subiendo la barra.",
+   "Baja despacio hasta estirar."
+  ],
+  "errores": [
+   "Balancear el cuerpo.",
+   "Adelantar los codos.",
+   "No estirar del todo abajo."
+  ]
+ },
+ "EZ-Bar Curl": {
+  "pasos": [
+   "Agarra la barra Z por las curvas interiores o exteriores.",
+   "Codos pegados al cuerpo.",
+   "Sube la barra flexionando los codos.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Impulso.",
+   "Recorrido corto.",
+   "Mover los codos."
+  ]
+ },
+ "Dumbbell Bicep Curl": {
+  "pasos": [
+   "De pie con una mancuerna en cada mano, palmas al frente.",
+   "Codos fijos al lado del cuerpo.",
+   "Sube las mancuernas.",
+   "Baja despacio."
+  ],
+  "errores": [
+   "Balancearse.",
+   "Subir los codos.",
+   "Bajar de golpe."
+  ]
+ },
+ "Dumbbell Alternate Bicep Curl": {
+  "pasos": [
+   "De pie, mancuernas a los lados con palmas hacia dentro.",
+   "Sube una mancuerna girando la palma hacia arriba.",
+   "Baja y repite con el otro brazo.",
+   "Mantén los codos fijos."
+  ],
+  "errores": [
+   "Impulso del tronco.",
+   "Mover los codos.",
+   "Ir demasiado rápido."
+  ]
+ },
+ "Hammer Curls": {
+  "pasos": [
+   "De pie con las mancuernas a los lados y palmas enfrentadas.",
+   "Codos pegados.",
+   "Sube sin girar las muñecas.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Balancearse.",
+   "Girar la muñeca.",
+   "Recorrido corto."
+  ]
+ },
+ "Incline Dumbbell Curl": {
+  "pasos": [
+   "Siéntate en banco a 45º con los brazos colgando.",
+   "Palmas al frente.",
+   "Sube las mancuernas sin mover los codos.",
+   "Baja hasta estirar completamente."
+  ],
+  "errores": [
+   "Despegar la espalda.",
+   "Adelantar los codos.",
+   "Bajar a medias."
+  ]
+ },
+ "Concentration Curls": {
+  "pasos": [
+   "Sentado, apoya el codo en la cara interna del muslo.",
+   "Sujeta la mancuerna con el brazo estirado.",
+   "Sube hacia el hombro.",
+   "Baja despacio."
+  ],
+  "errores": [
+   "Mover el tronco.",
+   "Separar el codo del muslo.",
+   "Bajar rápido."
+  ]
+ },
+ "Preacher Curl": {
+  "pasos": [
+   "Siéntate en el banco Scott con las axilas en el borde.",
+   "Agarra la barra con los brazos estirados.",
+   "Sube la barra.",
+   "Baja sin bloquear de golpe abajo."
+  ],
+  "errores": [
+   "Levantar los codos del apoyo.",
+   "Bajar de golpe y forzar el codo.",
+   "Impulso."
+  ]
+ },
+ "Standing Biceps Cable Curl": {
+  "pasos": [
+   "De pie frente a la polea baja con barra.",
+   "Codos pegados.",
+   "Sube la barra hacia el pecho.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Echarse atrás.",
+   "Mover los codos.",
+   "Recorrido corto."
+  ]
+ },
+ "Triceps Pushdown": {
+  "pasos": [
+   "De pie frente a la polea alta con barra.",
+   "Codos pegados a los costados.",
+   "Extiende los brazos hacia abajo.",
+   "Sube hasta 90º sin mover los codos."
+  ],
+  "errores": [
+   "Separar los codos del cuerpo.",
+   "Inclinarse sobre la barra.",
+   "Subir demasiado."
+  ]
+ },
+ "Triceps Pushdown - Rope Attachment": {
+  "pasos": [
+   "Polea alta con cuerda, agárrala con palmas enfrentadas.",
+   "Codos pegados.",
+   "Extiende abajo separando los extremos de la cuerda.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Mover los codos.",
+   "Impulso del tronco.",
+   "No extender del todo."
+  ]
+ },
+ "Cable Rope Overhead Triceps Extension": {
+  "pasos": [
+   "De espaldas a la polea, cuerda por encima de la cabeza.",
+   "Tronco algo inclinado al frente.",
+   "Extiende los brazos hacia delante y arriba.",
+   "Vuelve doblando los codos."
+  ],
+  "errores": [
+   "Abrir los codos.",
+   "Arquear la espalda.",
+   "Recorrido corto."
+  ]
+ },
+ "Lying Triceps Press": {
+  "pasos": [
+   "Túmbate con la barra sobre el pecho y brazos estirados.",
+   "Baja la barra hacia la frente doblando solo los codos.",
+   "Mantén los codos apuntando al techo.",
+   "Extiende de nuevo."
+  ],
+  "errores": [
+   "Abrir los codos.",
+   "Mover los hombros.",
+   "Bajar sin control."
+  ]
+ },
+ "EZ-Bar Skullcrusher": {
+  "pasos": [
+   "Tumbado en banco plano con la barra Z arriba.",
+   "Baja la barra hacia la frente o detrás de la cabeza.",
+   "Codos fijos.",
+   "Extiende los brazos."
+  ],
+  "errores": [
+   "Abrir los codos.",
+   "Impulso.",
+   "Peso excesivo."
+  ]
+ },
+ "Close-Grip Barbell Bench Press": {
+  "pasos": [
+   "Túmbate y agarra la barra a la anchura de los hombros.",
+   "Codos pegados al cuerpo.",
+   "Baja a la parte baja del pecho.",
+   "Empuja extendiendo los brazos."
+  ],
+  "errores": [
+   "Agarre demasiado estrecho (carga muñecas).",
+   "Abrir los codos.",
+   "Rebotar."
+  ]
+ },
+ "Tricep Dumbbell Kickback": {
+  "pasos": [
+   "Inclina el tronco con apoyo en un banco.",
+   "Brazo pegado al cuerpo y codo a 90º.",
+   "Extiende el antebrazo hacia atrás.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Bajar el codo.",
+   "Balancear el brazo.",
+   "Usar demasiado peso."
+  ]
+ },
+ "Standing Dumbbell Triceps Extension": {
+  "pasos": [
+   "De pie, sujeta una mancuerna con las dos manos por encima de la cabeza.",
+   "Baja la mancuerna detrás de la cabeza.",
+   "Mantén los codos cerca de la cabeza.",
+   "Extiende los brazos."
+  ],
+  "errores": [
+   "Abrir los codos.",
+   "Arquear la espalda.",
+   "Bajar poco."
+  ]
+ },
+ "Plank": {
+  "pasos": [
+   "Apoya antebrazos y puntas de los pies en el suelo.",
+   "Cuerpo recto de cabeza a talones.",
+   "Aprieta abdomen y glúteos.",
+   "Mantén la posición respirando."
+  ],
+  "errores": [
+   "Hundir la cadera.",
+   "Levantar el culo.",
+   "Contener la respiración."
+  ]
+ },
+ "Crunches": {
+  "pasos": [
+   "Túmbate boca arriba con las rodillas flexionadas.",
+   "Manos en el pecho o junto a la cabeza.",
+   "Despega los hombros del suelo contrayendo el abdomen.",
+   "Baja despacio."
+  ],
+  "errores": [
+   "Tirar del cuello con las manos.",
+   "Subir con impulso.",
+   "Despegar la zona lumbar."
+  ]
+ },
+ "Cable Crunch": {
+  "pasos": [
+   "De rodillas frente a la polea alta con la cuerda junto a la cabeza.",
+   "Flexiona el tronco llevando los codos a los muslos.",
+   "Contrae el abdomen.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Tirar con los brazos.",
+   "Mover la cadera en lugar de flexionar el tronco.",
+   "Peso excesivo."
+  ]
+ },
+ "Hanging Leg Raise": {
+  "pasos": [
+   "Cuélgate de una barra con brazos estirados.",
+   "Eleva las piernas hasta la horizontal o más.",
+   "Controla el movimiento.",
+   "Baja despacio sin balancearte."
+  ],
+  "errores": [
+   "Balancearse.",
+   "Bajar de golpe.",
+   "Usar los flexores de cadera sin contraer el abdomen."
+  ]
+ },
+ "Reverse Crunch": {
+  "pasos": [
+   "Túmbate boca arriba con las piernas flexionadas en el aire.",
+   "Lleva las rodillas al pecho despegando la cadera.",
+   "Contrae el abdomen.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Impulso de piernas.",
+   "Bajar sin control.",
+   "Despegar la cabeza."
+  ]
+ },
+ "Russian Twist": {
+  "pasos": [
+   "Sentado con el tronco inclinado atrás y pies elevados o apoyados.",
+   "Junta las manos o sujeta un peso.",
+   "Gira el tronco a un lado y al otro.",
+   "Mantén la espalda recta."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Mover solo los brazos.",
+   "Ir demasiado rápido."
+  ]
+ },
+ "Ab Roller": {
+  "pasos": [
+   "De rodillas, sujeta la rueda bajo los hombros.",
+   "Rueda hacia delante con el abdomen apretado.",
+   "Llega hasta donde mantengas la espalda recta.",
+   "Vuelve contrayendo el abdomen."
+  ],
+  "errores": [
+   "Hundir la zona lumbar.",
+   "Ir más lejos de lo que controlas.",
+   "Volver tirando con la cadera."
+  ]
+ },
+ "Side Bridge": {
+  "pasos": [
+   "Túmbate de lado apoyado en el antebrazo.",
+   "Eleva la cadera hasta alinear el cuerpo.",
+   "Mantén la posición.",
+   "Cambia de lado."
+  ],
+  "errores": [
+   "Dejar caer la cadera.",
+   "Girar el tronco.",
+   "Contener la respiración."
+  ]
+ },
+ "Thigh Abductor": {
+  "pasos": [
+   "Siéntate en la máquina con las almohadillas por fuera de las rodillas.",
+   "Abre las piernas.",
+   "Mantén un segundo.",
+   "Cierra despacio."
+  ],
+  "errores": [
+   "Impulso.",
+   "Despegar la espalda.",
+   "Recorrido corto."
+  ]
+ },
+ "Thigh Adductor": {
+  "pasos": [
+   "Siéntate con las almohadillas por dentro de las rodillas.",
+   "Cierra las piernas.",
+   "Mantén un segundo.",
+   "Abre despacio."
+  ],
+  "errores": [
+   "Dejar que el peso abra de golpe.",
+   "Impulso.",
+   "Abrir más de tu movilidad."
+  ]
+ },
+ "Machine Bench Press": {
+  "pasos": [
+   "Ajusta el asiento para que los agarres queden a la altura del pecho.",
+   "Espalda pegada al respaldo.",
+   "Empuja hasta extender los brazos.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Despegar la espalda.",
+   "Bloquear los codos.",
+   "Asiento mal ajustado."
+  ]
+ },
+ "Smith Machine Bench Press": {
+  "pasos": [
+   "Coloca el banco para que la barra baje a la parte media del pecho.",
+   "Agarra algo más ancho que los hombros.",
+   "Desbloquea y baja controlado.",
+   "Empuja hasta extender."
+  ],
+  "errores": [
+   "Banco mal colocado.",
+   "Rebotar.",
+   "Olvidar los seguros."
+  ]
+ },
+ "Smith Machine Incline Bench Press": {
+  "pasos": [
+   "Banco inclinado bajo la barra del multipower.",
+   "Agarre algo más ancho que los hombros.",
+   "Baja a la parte alta del pecho.",
+   "Empuja."
+  ],
+  "errores": [
+   "Barra hacia el cuello.",
+   "Rebotar.",
+   "Banco demasiado inclinado."
+  ]
+ },
+ "One-Arm Kettlebell Swings": {
+  "pasos": [
+   "Pies algo más anchos que los hombros, kettlebell en una mano.",
+   "Bisagra de cadera llevándola entre las piernas.",
+   "Extiende la cadera explosivamente.",
+   "Deja que baje y repite."
+  ],
+  "errores": [
+   "Tirar con el brazo.",
+   "Girar el tronco.",
+   "Redondear la espalda."
+  ]
+ },
+ "Bodyweight Squat": {
+  "pasos": [
+   "De pie con los pies a la anchura de los hombros.",
+   "Brazos al frente para equilibrar.",
+   "Baja llevando la cadera atrás hasta la paralela.",
+   "Sube empujando con todo el pie."
+  ],
+  "errores": [
+   "Rodillas hacia dentro.",
+   "Levantar los talones.",
+   "Redondear la espalda."
+  ]
+ },
+ "Dumbbell Step Ups": {
+  "pasos": [
+   "De pie frente a un cajón con mancuernas.",
+   "Sube un pie completo al cajón.",
+   "Empuja con esa pierna hasta quedar de pie arriba.",
+   "Baja controlado y alterna."
+  ],
+  "errores": [
+   "Impulsarse con la pierna de abajo.",
+   "Rodilla hacia dentro.",
+   "Cajón demasiado alto."
+  ]
+ },
+ "Good Morning": {
+  "pasos": [
+   "Barra sobre los trapecios, pies a la anchura de la cadera.",
+   "Rodillas algo flexionadas.",
+   "Inclina el tronco llevando la cadera atrás con la espalda recta.",
+   "Sube apretando glúteos."
+  ],
+  "errores": [
+   "Redondear la espalda.",
+   "Bajar demasiado.",
+   "Peso excesivo."
+  ]
+ },
+ "Glute Kickback": {
+  "pasos": [
+   "En cuadrupedia con las manos bajo los hombros.",
+   "Eleva una pierna hacia atrás con la rodilla flexionada.",
+   "Aprieta el glúteo arriba.",
+   "Baja controlado."
+  ],
+  "errores": [
+   "Arquear la espalda.",
+   "Girar la cadera.",
+   "Impulso."
+  ]
+ },
+ "One-Legged Cable Kickback": {
+  "pasos": [
+   "Tobillera en la polea baja.",
+   "Sujétate a la máquina e inclínate ligeramente.",
+   "Lleva la pierna atrás apretando el glúteo.",
+   "Vuelve controlado."
+  ],
+  "errores": [
+   "Arquear la zona lumbar.",
+   "Balancear la pierna.",
+   "Rotar la cadera."
+  ]
+ },
+ "Cable Hip Adduction": {
+  "pasos": [
+   "Tobillera en polea baja en la pierna más cercana.",
+   "Cruza la pierna por delante de la otra.",
+   "Aprieta los aductores.",
+   "Vuelve despacio."
+  ],
+  "errores": [
+   "Inclinar el tronco.",
+   "Impulso.",
+   "Recorrido corto."
+  ]
+ }
+}
