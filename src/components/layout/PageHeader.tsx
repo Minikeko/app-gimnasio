@@ -6,17 +6,22 @@ interface Props {
   title: string
   subtitle?: string
   back?: boolean
+  /** Si devuelve false, no se vuelve atrás */
+  onBack?: () => boolean
   action?: ReactNode
 }
 
-export function PageHeader({ title, subtitle, back, action }: Props) {
+export function PageHeader({ title, subtitle, back, onBack, action }: Props) {
   const navigate = useNavigate()
   return (
     <header className="sticky top-0 z-40 bg-gray-900/95 backdrop-blur-sm border-b border-gray-800 safe-top">
       <div className="flex items-center gap-3 px-4 h-14 max-w-lg mx-auto">
         {back && (
           <button
-            onClick={() => navigate(-1)}
+            onClick={() => {
+              if (!onBack || onBack()) navigate(-1)
+            }}
+            aria-label="Volver"
             className="p-2 -ml-2 text-gray-400 hover:text-white transition-colors"
           >
             <ArrowLeft size={22} />

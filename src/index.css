@@ -1,41 +1,39 @@
 @import "tailwindcss";
 
+/* Todo dentro de capas: los estilos fuera de capa ganan siempre a las utilidades de Tailwind */
 @layer base {
   :root {
     --color-bg: 17 24 39;
-    --color-surface: 31 41 55;
-    --color-border: 55 65 81;
     --color-text: 243 244 246;
-    --color-muted: 156 163 175;
-    --color-primary: 99 102 241;
-    --color-primary-hover: 79 70 229;
-    --color-danger: 239 68 68;
-    --color-success: 34 197 94;
-    --color-warning: 234 179 8;
+  }
+
+  * {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+
+  body {
+    background-color: rgb(var(--color-bg));
+    color: rgb(var(--color-text));
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    overscroll-behavior: none;
+    -webkit-font-smoothing: antialiased;
   }
 }
 
-* {
-  -webkit-tap-highlight-color: transparent;
-  touch-action: manipulation;
-}
-
-body {
-  background-color: rgb(var(--color-bg));
-  color: rgb(var(--color-text));
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  overscroll-behavior: none;
-  -webkit-font-smoothing: antialiased;
-}
-
-/* Safe area para notch de iPhone */
-.safe-top {
+/* Zonas seguras del notch y la barra de inicio del iPhone */
+@utility safe-top {
   padding-top: env(safe-area-inset-top);
 }
-.safe-bottom {
+
+@utility safe-bottom {
   padding-bottom: env(safe-area-inset-bottom);
 }
 
-/* Ocultar scrollbar manteniendo funcionalidad */
-.no-scrollbar::-webkit-scrollbar { display: none; }
-.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+@utility no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

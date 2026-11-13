@@ -8,12 +8,9 @@ import { PageHeader } from '../components/layout/PageHeader'
 import { Chip } from '../components/ui/Chip'
 import { Miniatura } from '../components/ejercicio/Ilustracion'
 import { EQUIPOS, LISTA_EQUIPOS, LISTA_MUSCULOS, MUSCULOS } from '../lib/etiquetas'
+import { filtrarEjercicios } from '../lib/busqueda'
 
 const PASO = 30
-
-function normalizar(s: string) {
-  return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
-}
 
 export function Ejercicios() {
   const [params, setParams] = useSearchParams()
@@ -33,28 +30,10 @@ export function Ejercicios() {
     setParams(p, { replace: true })
   }
 
-  const filtrados = useMemo(() => {
-    if (!todos) return []
-    const palabras = normalizar(q).split(/\s+/).filter(Boolean)
-    return todos
-      .filter((e) => {
-        if (musculo && e.musculoPrincipal !== musculo && !e.musculosSecundarios.includes(musculo)) return false
-        if (equipo && e.equipamiento !== equipo) return false
-        if (soloMios && !e.esPersonalizado) return false
-        if (!palabras.length) return true
-        const es = normalizar(e.nombre)
-        const en = normalizar(e.nombreOriginal ?? '')
-        return palabras.every((p) => es.includes(p)) || palabras.every((p) => en.includes(p))
-      })
-      .sort((a, b) => {
-        if (musculo && (a.musculoPrincipal === musculo) !== (b.musculoPrincipal === musculo)) {
-          return a.musculoPrincipal === musculo ? -1 : 1
-        }
-        if (a.esPersonalizado !== b.esPersonalizado) return a.esPersonalizado ? -1 : 1
-        if (a.idioma !== b.idioma) return a.idioma === 'es' ? -1 : 1
-        return a.nombre.localeCompare(b.nombre, 'es')
-      })
-  }, [todos, q, musculo, equipo, soloMios])
+  const filtrados = useMemo(
+    () => (todos ? filtrarEjercicios(todos, { q, musculo, equipo, soloMios }) : []),
+    [todos, q, musculo, equipo, soloMios]
+  )
 
   useEffect(() => setVisibles(PASO), [q, musculo, equipo, soloMios])
 

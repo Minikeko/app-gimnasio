@@ -1,5 +1,7 @@
 import { HashRouter, Routes, Route } from 'react-router-dom'
-import { ListChecks, TrendingUp } from 'lucide-react'
+import { TrendingUp } from 'lucide-react'
+import { Rutinas } from './pages/Rutinas'
+import { RutinaEditor } from './pages/RutinaEditor'
 import { BottomNav } from './components/layout/BottomNav'
 import { Inicio } from './pages/Inicio'
 import { Ajustes } from './pages/Ajustes'
@@ -14,10 +16,9 @@ export default function App() {
       <div className="min-h-dvh pb-20">
         <Routes>
           <Route path="/" element={<Inicio />} />
-          <Route
-            path="/rutinas"
-            element={<Placeholder titulo="Rutinas" icono={<ListChecks size={40} />} texto="Aquí podrás crear y organizar tus rutinas (Fase 3)." />}
-          />
+          <Route path="/rutinas" element={<Rutinas />} />
+          <Route path="/rutinas/nueva" element={<RutinaEditor />} />
+          <Route path="/rutinas/:id" element={<RutinaEditor />} />
           <Route path="/ejercicios" element={<Ejercicios />} />
           <Route path="/ejercicios/nuevo" element={<EjercicioForm />} />
           <Route path="/ejercicios/:id" element={<EjercicioDetalle />} />
