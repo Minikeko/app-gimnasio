@@ -1,8 +1,11 @@
 import { HashRouter, Routes, Route } from 'react-router-dom'
-import { ListChecks, Dumbbell, TrendingUp } from 'lucide-react'
+import { ListChecks, TrendingUp } from 'lucide-react'
 import { BottomNav } from './components/layout/BottomNav'
 import { Inicio } from './pages/Inicio'
 import { Ajustes } from './pages/Ajustes'
+import { Ejercicios } from './pages/Ejercicios'
+import { EjercicioDetalle } from './pages/EjercicioDetalle'
+import { EjercicioForm } from './pages/EjercicioForm'
 import { Placeholder } from './pages/Placeholder'
 
 export default function App() {
@@ -15,10 +18,10 @@ export default function App() {
             path="/rutinas"
             element={<Placeholder titulo="Rutinas" icono={<ListChecks size={40} />} texto="Aquí podrás crear y organizar tus rutinas (Fase 3)." />}
           />
-          <Route
-            path="/ejercicios"
-            element={<Placeholder titulo="Ejercicios" icono={<Dumbbell size={40} />} texto="Biblioteca de ejercicios con imágenes y vídeos (Fase 2)." />}
-          />
+          <Route path="/ejercicios" element={<Ejercicios />} />
+          <Route path="/ejercicios/nuevo" element={<EjercicioForm />} />
+          <Route path="/ejercicios/:id" element={<EjercicioDetalle />} />
+          <Route path="/ejercicios/:id/editar" element={<EjercicioForm />} />
           <Route
             path="/progreso"
             element={<Placeholder titulo="Progreso" icono={<TrendingUp size={40} />} texto="Récords, peso, pasos y mapa corporal (Fases 5-7)." />}

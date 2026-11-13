@@ -43,25 +43,6 @@ export default defineConfig({
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2}'],
         navigateFallback: '/app-gimnasio/index.html',
-        navigateFallbackDenylist: [/^\/api\//],
-        runtimeCaching: [
-          {
-            urlPattern: /^https:\/\/wger\.de\/api\//,
-            handler: 'NetworkFirst',
-            options: {
-              cacheName: 'wger-api-cache',
-              expiration: { maxEntries: 500, maxAgeSeconds: 86400 * 7 },
-            },
-          },
-          {
-            urlPattern: /^https:\/\/.*\.(png|jpg|jpeg|svg|gif)$/,
-            handler: 'CacheFirst',
-            options: {
-              cacheName: 'images-cache',
-              expiration: { maxEntries: 1000, maxAgeSeconds: 86400 * 30 },
-            },
-          },
-        ],
       },
     }),
   ],

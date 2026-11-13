@@ -7,6 +7,7 @@ import { Card } from '../components/ui/Card'
 import { Button } from '../components/ui/Button'
 import { estaPersistido, pedirAlmacenamientoPersistente } from '../lib/almacenamiento'
 import { claveDia } from '../lib/fechas'
+import { ImagenesSinConexion } from '../components/ajustes/ImagenesSinConexion'
 
 export function Ajustes() {
   const ajustes = useLiveQuery(() => db.ajustes.get(1))
@@ -119,7 +120,11 @@ export function Ajustes() {
           </div>
         </Card>
 
-        <p className="text-center text-xs text-gray-600 pt-2">GymTracker v{__APP_VERSION__}</p>
+        <ImagenesSinConexion />
+
+        <p className="text-center text-xs text-gray-600 pt-2">
+          GymTracker v{__APP_VERSION__} · Ejercicios e imágenes de free-exercise-db
+        </p>
       </main>
     </>
   )
