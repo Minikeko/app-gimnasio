@@ -3,8 +3,9 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
-export default defineConfig({
-  base: '/app-gimnasio/',
+// En desarrollo se sirve en la raíz para que la vista previa abra directamente la app
+export default defineConfig(({ command }) => ({
+  base: command === 'build' ? '/app-gimnasio/' : '/',
   define: {
     __APP_VERSION__: JSON.stringify(process.env.npm_package_version),
   },
@@ -46,4 +47,4 @@ export default defineConfig({
       },
     }),
   ],
-})
+}))
